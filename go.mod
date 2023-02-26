@@ -1,3 +1,3 @@
 module github.com/hcinterop/fhir
 
-go 1.18
+go 1.20
